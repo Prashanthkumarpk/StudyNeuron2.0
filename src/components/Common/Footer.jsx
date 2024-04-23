@@ -172,7 +172,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Made with ❤️ NIT Allahabad © 2024 StudyNotion</div>
+          <div className="text-center">Made with ❤️ By SVEC STUDENTS © 2024 StudyNeuron</div>
         </div>
       </div>
     </div>
