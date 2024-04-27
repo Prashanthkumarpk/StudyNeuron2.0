@@ -8,14 +8,14 @@ const contactDetails = [
     icon: "HiChatBubbleLeftRight",
     heading: "Chat on us",
     description: "Our friendly team is here to help.",
-    details: "info@studynotion.com",
+    details: "info@studyneuron.com",
   },
   {
     icon: "BiWorld",
     heading: "Visit us",
     description: "Come and say hello at our office HQ.",
     details:
-      "Akshya Nagar 1st Block 1st Cross, Rammurthy nagar, Bangalore-560016",
+      "Balaji Nagar 1st Block 1st Cross, Srinivasa sethu, Tirupati-517507",
   },
   {
     icon: "IoCall",
